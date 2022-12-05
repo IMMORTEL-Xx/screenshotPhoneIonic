@@ -1,0 +1,7 @@
+{
+  "name": "belgrainsApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
